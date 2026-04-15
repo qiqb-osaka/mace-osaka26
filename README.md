@@ -13,6 +13,11 @@ MACE version compatibility:
 - **MACE-Osaka26**: compatible with MACE **v0.3.12 or later**
 - **MACE-Osaka24**: compatible with MACE **v0.3.6 or later**
 
+# **⚠️ Security Notice**
+We have identified a malicious impersonation repository that appears to distribute suspicious release files under the name `mace-osaka26`.  
+Please download release files **only from this official repository**.  
+Do **not** download or run files from any other repository or unofficial source.
+
 ## Models
 
 - First generation: [MACE-Osaka24](https://github.com/qiqb-osaka/mace-osaka24/releases/tag/v0.0.1)
